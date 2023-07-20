@@ -1,6 +1,6 @@
 # Placement-Preparation-Module
 
-Name: Arpan Tripathi
-Roll no: 2000290110040
+Name: Ankur Rastogi
+Roll no: 2000290110030
 Semester:6th
 Branch/Section:CSIT 6A
